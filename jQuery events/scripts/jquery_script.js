@@ -42,7 +42,7 @@ $(function () {
     
     );
     
-    //ener text to the span tag when event is performed on the div
+    //enter text to the span tag when event is performed on the div
     
     $("body").on({
         
